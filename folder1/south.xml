@@ -1,0 +1,7 @@
+{'__header__': b'MATLAB 5.0 MAT-file, Platform: PCWIN64, Created on: Sun May 24 12:08:37 2020',
+ '__version__': '1.0',
+ '__globals__': [],
+ 'ed': array([[(array([[2907]], dtype=uint16), array([[2207]], dtype=uint16), array([[1475, 3854, 2076, 4002]], dtype=uint16), array([[63.9702182]]), array([[-32.95708261]]), array([[63.87158775]]), array([[64.03846109]]), array([[-32.93938027]]), array([[-32.97758202]]), array([[3051, 2182],
+                [2806, 2219]], dtype=uint16), array([[18646.04327193]]), array([[63.95941585]]), array([[63.97686843]]), array([[-33.17234325]]), array([[-32.70213676]]), array([[2887, 2067],
+                [2938, 2371]], dtype=uint16), array([[23024.42463844]]), array([[0]], dtype=uint8), array([[0]], dtype=uint8), array([[-2478.0324707]]))                                                                                                                                       ]],
+       dtype=[('xc', 'O'), ('yc', 'O'), ('ax', 'O'), ('centre_lat', 'O'), ('centre_lon', 'O'), ('d1_startlat', 'O'), ('d1_endlat', 'O'), ('d1_startlon', 'O'), ('d1_endlon', 'O'), ('d1_xy', 'O'), ('d1_length_meters', 'O'), ('d2_startlat', 'O'), ('d2_endlat', 'O'), ('d2_startlon', 'O'), ('d2_endlon', 'O'), ('d2_xy', 'O'), ('d2_length_meters', 'O'), ('vort_sign', 'O'), ('type', 'O'), ('depth_meters', 'O')])}
